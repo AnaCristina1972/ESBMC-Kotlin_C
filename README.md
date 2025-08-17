@@ -45,5 +45,5 @@ A metodologia segue quatro etapas principais:
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/usuario/esbmc_kotlin.git
-cd esbmc_kotlin
+git clone git@github.com:AnaCristina1972/ESBMC-Kotlin_C.git
+cd esbmc_kotin_c
